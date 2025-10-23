@@ -1,0 +1,8 @@
+remote_theme: pages-themes/merlot@v0.2.0
+plugins:
+- jekyll-remote-theme 
+
+title: Maia Rojas
+description: Estudiante de 4to Semestre de la Universidad Tecnica de Ambato.
+show_downloads: false
+google_analytics:
